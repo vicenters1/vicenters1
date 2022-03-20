@@ -3,10 +3,10 @@
 <h4 align="center">🎓 I'm a Computer Science and Engineering student at NOVA School of Science and Technology 🎓</h4>
 <h4 align="center">🔭 I'm also a Projects Department Member at In-Nova (NOVA SST Junior Enterprise) 🔭</h4>
 
-<div>
+<div align="center">
   <a href="https://github.com/vicenters1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicenters1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenters1&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicenters1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicenters1&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
