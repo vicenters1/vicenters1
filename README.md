@@ -2,7 +2,7 @@
   <h1>🇵🇹 Hi there! 🇵🇹</h1>
   <h2>My name is Vicente and this is my GitHub profile!</h2>
   <h4>🎓 I'm a Computer Science and Engineering student at NOVA School of Science and Technology 🎓</h4>
-  <h4>🔭 I'm also a Projects Department Member at In-Nova (NOVA SST Junior Enterprise) 🔭</h4>
+  <h4>🔭 I'm also a Projects Department Member for In-Nova (NOVA SST Junior Enterprise) 🔭</h4>
 </div>
 
 <div style="display: inline_block" align="center">
